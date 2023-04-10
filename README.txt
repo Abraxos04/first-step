@@ -1,1 +1,0 @@
-Hello. My name is Soham Ray and I am learning programming.
